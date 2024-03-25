@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Dravid Joseph.
 
-You can use the [editor on GitHub](https://github.com/dravidjoseph/dravidjoseph.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a software engineer based in the San Francisco Bay Area.  Currently, I work as a Software Development Engineer (SDE) for [Amazon Key For Business](https://www.amazon.com/b?ie=UTF8&node=18530497011).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I support services related to the [Ring Intercom](https://en-uk.ring.com/products/intercom) and the [Ring Access Controller Pro](https://ring.com/products/access-controller-pro-2).  I mostly support the backend, although I have to coordinate with Ring app and Alexa folks regularly as well to make sure everything works.
 
-### Markdown
+Amazon famously has a service-oriented architecture and as a result I end up wearing a lot of different hats.  I coordinate with product managers to help design features and end up implementing those features, but Amazon SDEs are generally responsible for maintaining the code pipeline, building up and tearing down service infrastructure, ensuring adequate test coverage, and participating in on-call rotations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my free time, I work out with a [personal trainer](https://www.reddotfitness.net), try to spend quality time with my family, and try to get various house projects under control.
 
-```markdown
-Syntax highlighted code block
+### Contact me
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dravidjoseph/dravidjoseph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I try to avoid social media; If you want to contact me the best place to do so would be at [my LinkedIn](https://www.linkedin.com/in/dravidjoseph/).  I have accounts with all the major social media platforms but it's unlikely that I'll respond.
